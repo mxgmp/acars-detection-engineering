@@ -11,3 +11,4 @@ data/
 __pycache__/
 *.pyc
 .DS_Store
+TECHNICAL_WALKTHROUGH.md
